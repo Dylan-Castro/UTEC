@@ -1,0 +1,4 @@
+Nombre|Apellidos|Ciclo|Mensualidad
+Howard1 Paredes Zegarra 3 1500.00
+Penny1 Vargas Cordero 4 2550.50
+Sheldon1 Cooper Quizpe 5 1850.00

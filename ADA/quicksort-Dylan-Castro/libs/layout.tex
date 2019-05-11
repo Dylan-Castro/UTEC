@@ -1,0 +1,26 @@
+\newcommand{\ra}[1]{\renewcommand{\arraystretch}{#1}}
+
+\newcommand{\homework}[6]{
+    \pagestyle{plain}
+    \newpage
+    \setcounter{page}{1}
+    \noindent
+    \begin{center}
+    \framebox{
+        \vbox{\vspace{3mm}
+        \hbox to 6.5in { {\bf CS2102~Analysis and Design of Algorithms \hfill {\small #2}} }
+        \vspace{7mm}
+        \hbox to 6.5in { {\Large \hfill #1  \hfill} }
+        \vspace{7mm}
+        \hbox to 6.5in { {{\rm #3} \hfill} {\rm #4} }
+        \vspace{3mm}}
+    }
+   \end{center}
+   \vspace*{6mm}
+}
+
+\newcommand{\problem}[2]{~\\\fbox{\textbf{Problem #1}}\hfill #2 \newline\newline}
+\newcommand{\subproblem}[1]{~\newline\textbf{(#1)}}
+\newcommand{\solution}{~\newline\textbf{\textit{(Solution)}} }
+
+\renewcommand*{\thesection}{\Roman{section}}

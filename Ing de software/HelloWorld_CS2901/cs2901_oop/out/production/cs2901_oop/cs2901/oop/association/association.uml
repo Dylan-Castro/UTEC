@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="224.0" y="0.0">cs2901.oop.association.Man</node>
+    <node x="0.0" y="0.0">cs2901.oop.association.Woman</node>
+    <node x="80.125" y="149.0">cs2901.oop.association.Marriage</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="cs2901.oop.association.Marriage" target="cs2901.oop.association.Man">
+      <point x="94.5" y="-61.5" />
+      <point x="300.625" y="124.0" />
+      <point x="329.75" y="124.0" />
+      <point x="35.25" y="49.5" />
+    </edge>
+    <edge source="cs2901.oop.association.Marriage" target="cs2901.oop.association.Woman">
+      <point x="-31.5" y="-61.5" />
+      <point x="174.625" y="124.0" />
+      <point x="153.0" y="124.0" />
+      <point x="51.0" y="49.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="0.0" y="6.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

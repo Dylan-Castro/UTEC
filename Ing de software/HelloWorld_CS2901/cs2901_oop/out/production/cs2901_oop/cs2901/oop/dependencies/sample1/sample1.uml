@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="79.0">cs2901.oop.dependencies.sample1.Foo</node>
+    <node x="1.0" y="0.0">cs2901.oop.dependencies.sample1.Bar</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="cs2901.oop.dependencies.sample1.Foo" target="cs2901.oop.dependencies.sample1.Bar">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.3000000000000003" x="0.0" y="5.6843418860808015E-14" />
+  <SelectedNodes>
+    <node>cs2901.oop.dependencies.sample1.Bar</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

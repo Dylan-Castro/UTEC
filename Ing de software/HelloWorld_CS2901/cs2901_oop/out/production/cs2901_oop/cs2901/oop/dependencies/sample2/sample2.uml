@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>cs2901.oop.dependencies.sample2</OriginalElement>
+  <nodes>
+    <node x="0.0" y="0.0">cs2901.oop.dependencies.sample2.Subject</node>
+    <node x="2.5" y="124.0">cs2901.oop.dependencies.sample2.Email</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="cs2901.oop.dependencies.sample2.Email" target="cs2901.oop.dependencies.sample2.Subject">
+      <point x="-40.0" y="-37.0" />
+      <point x="42.5" y="99.0" />
+      <point x="41.25" y="99.0" />
+      <point x="-41.25" y="37.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.7000000000000006" x="47.0" y="54.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
